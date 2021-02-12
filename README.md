@@ -7,4 +7,5 @@ Repositório com material de estudos, projetos e conteúdos sobre análise de da
 
 ### 3 - [Importação de arquivos com Pandas](http://blog.vitordiego.com.br/index.php/2021/02/11/importacao-de-arquivos-com-pandas-em-python/)
 
+
 Confira mais conteúdos em meu [Blog](http://blog.vitordiego.com.br/)
