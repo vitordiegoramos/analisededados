@@ -7,5 +7,6 @@ Repositório com material de estudos, projetos e conteúdos sobre análise de da
 
 ### 3 - [Importação de arquivos com Pandas em Python](http://blog.vitordiego.com.br/index.php/2021/02/11/importacao-de-arquivos-com-pandas-em-python/)
 
+### 4 - [Pandas_Analise_Exploratoria_DIO_DataEngineerCarrefour](https://github.com/vitordiegoramos/analisededados/blob/main/Pandas_Analise_Exploratoria_DIO_DataEngineerCarrefour.ipynb)
 
 Confira mais conteúdos em meu [Blog](http://blog.vitordiego.com.br/)
